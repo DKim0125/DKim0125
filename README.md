@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Kim</h1>
+<h1 align="center">Hello World, I'm David Kim</h1>
 <h3 align="center">Versatile Programmer | Seeking Internships in Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkim0125&label=Profile%20views&color=0e75b6&style=flat" alt="dkim0125" /> </p>
