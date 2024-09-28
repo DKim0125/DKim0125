@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I create Vlogs**
 
+![hello-kissMINION](https://github.com/user-attachments/assets/85a2b508-4991-46f3-98f9-670f7de15832)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidKim0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidkim" height="30" width="40" /></a>
