@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 👯 I’m looking to collaborate on **Frontend and Backend development**
+- 👯 I’m looking to collaborate on **Full Stack development**
 
 - 🤝 I’m looking for help with **AWS**
 
